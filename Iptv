@@ -32,6 +32,9 @@ https://bit.ly/3uQiOGt
 #EXTINF:-1,Astro First 474 - Belaban Hidup
 https://bit.ly/3KkBi8k
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.kampung.xyz/c/471c5cb2067763ea.png" group-title="INDONESIA",INDOSIAR
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+
 #EXTINF:-1g-id=""g-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
