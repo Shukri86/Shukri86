@@ -132,11 +132,14 @@ https://bit.ly/3iVKbcG
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-B
 https://bit.ly/3LDBJLn
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-A
 https://bit.ly/3Dy8sPk
 
 #EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-B
 https://bit.ly/3NIt38k
+
+#EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-C
+http://mykingtv.net:2082/ziharun88/ziharun88/8444
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
