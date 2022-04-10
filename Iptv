@@ -5,7 +5,7 @@ url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml" refre
 url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 url="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1,ID: Citra Drama
+#EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID- Citra Drama" tvg-logo="http://odwp.xyz/slogo/k/citradrama.png" group-title=" Z- INDONESIA",ID- Citra Drama
 http://mykingtv.net:2082/ziharun88/ziharun88/5118
 
 #EXTINF:-1,Astro First 477- Kg Pisang Berbuah 2 Kali
