@@ -8,6 +8,9 @@ url="https://weareblahs.github.io/epg/astro.xml"
 #EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID- Citra Drama" tvg-logo="http://odwp.xyz/slogo/k/citradrama.png" group-title="INDONESIA",ID- Citra Drama
 http://mykingtv.net:2082/ziharun88/ziharun88/5118
 
+#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="ID- Citra Dangdut" tvg-logo="http://odwp.xyz/slogo/k/citradangdut.png" group-title="INDONESIA",ID- Citra Dangdut
+http://mykingtv.net:2082/ziharun88/ziharun88/5120
+
 #EXTINF:-1,Astro First 477- Kg Pisang Berbuah 2 Kali
 https://bit.ly/3NMsuu5
 
