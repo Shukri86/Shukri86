@@ -5,12 +5,6 @@ url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml" refre
 url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 url="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1 tvg-id="citradrama.id" tvg-name="ID- Citra Drama" tvg-logo="http://odwp.xyz/slogo/k/citradrama.png" group-title="INDONESIA",ID- Citra Drama
-http://mykingtv.net:2082/ziharun88/ziharun88/5118
-
-#EXTINF:-1 tvg-id="citradangdut.id" tvg-name="ID- Citra Dangdut" tvg-logo="http://odwp.xyz/slogo/k/citradangdut.png" group-title="INDONESIA",ID- Citra Dangdut
-http://mykingtv.net:2082/ziharun88/ziharun88/5120
-
 #EXTINF:-1,Astro First 476- Gila Gusti
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/562
 
@@ -155,9 +149,6 @@ https://bit.ly/3Dy8sPk
 
 #EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-B
 https://bit.ly/3NIt38k
-
-#EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-C
-http://mykingtv.net:2082/ziharun88/ziharun88/8444
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
