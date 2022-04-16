@@ -85,26 +85,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1g-id="148"g-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MALAYSIA",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="MALAYSIA",TV9
-https://bit.ly/3u3bR5E
-
 #EXTINF:-1g-id="149"g-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA",Okey
 https://bit.ly/3LDUfU4
 
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
-https://bit.ly/3wYFO8Q
-
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="MALAYSIA",Bernama
 https://bit.ly/3uPviya
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="MALAYSIA",Awani
 https://bit.ly/3LCJUHT
-
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
-https://bit.ly/3u2UfHd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-A
 https://bit.ly/3iVKbcG
@@ -153,17 +144,8 @@ https://bit.ly/3u2e5SW
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-C" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-C
 http://iptv12k.com:35461/8022022301/468985/721
 
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA",BOO
-https://bit.ly/3j1ruUR
-
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
-https://bit.ly/3DAPsje
-
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA",Rania
 https://bit.ly/3Kdi1Gc
-
-#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura" tvg-logo="https://i.ibb.co/f4W4Nt4/liy.png" group-title="MALAYSIA",Naura
-https://bit.ly/3uUxnc7
 
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
 https://bit.ly/3qYZo18
