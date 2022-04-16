@@ -50,7 +50,8 @@ https://bit.ly/3uQiOGt
 #EXTINF:-1,Astro First 474 - Belaban Hidup
 https://bit.ly/3KkBi8k
 
-#EXTINF:-1g-id=""g-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/BwHtb4d/jtf.png" group-title="MALAYSIA",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,9 +96,6 @@ https://bit.ly/3LDUfU4
 
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
 https://bit.ly/3qVjl92
-
-#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/BwHtb4d/jtf.png" group-title="MALAYSIA",Drama Sangat
-https://bit.ly/3j0mWhu
 
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
 https://bit.ly/3wYFO8Q
