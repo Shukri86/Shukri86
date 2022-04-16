@@ -120,12 +120,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-logo="https://www.transvision.co.id/img/channel/celestial_movies.png" group-title="MOVIES",CELESTIAL MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-A
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/33
-
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
-https://bit.ly/3LyTKdO
-
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-A
 https://bit.ly/3J1lMNl
 
