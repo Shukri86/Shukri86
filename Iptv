@@ -221,11 +221,11 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/68
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="AnimaxAsia.jp" group-title="JAPAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",ANIMAX
+#EXTINF:-1 tvg-ID="AnimaxAsia.jp" group-title="kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="JAPAN",Aniplus
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/70
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" group-title="kids",ANIPLUS (VPN)
+http://210.210.129.106/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/6HF0DHS/svc.png" group-title="JAPAN",Sony GEM TV
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/72
