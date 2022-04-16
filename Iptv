@@ -144,9 +144,6 @@ https://bit.ly/3u2e5SW
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-C" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-C
 http://iptv12k.com:35461/8022022301/468985/721
 
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA",Rania
-https://bit.ly/3Kdi1Gc
-
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
 https://bit.ly/3qYZo18
 
@@ -225,12 +222,6 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/62
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://i.ibb.co/VqT2C9N/aod.png" group-title="CHINESE",AOD
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/366
 
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="CHINESE",IQiyi
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/63
-
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="CHINESE",Celestial Movies
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/64
-
 #EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="CHINESE",CCM
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/65
 
@@ -300,17 +291,8 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/93
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES",HBO
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/96
 
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES",HBO Hits
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/97
-
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES",HBO Family
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/98
-
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES",HBO Signature
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/99
-
-#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES",ShowCase Movies
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/385
 
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MOVIES",Cinemax
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/107
@@ -515,7 +497,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMOVIEs.png" group-title="MOVIES",SHOWCASE MOVIES
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES",ShowCase Movies
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
