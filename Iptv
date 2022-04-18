@@ -99,7 +99,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 http://iptv12k.com:35461/8022022301/468985/4353
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria Backup
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
 http://iptv12k.com:35461/8022022301/468985/4353
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
