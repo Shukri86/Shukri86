@@ -90,11 +90,10 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA" ch-number="121"g-id="121"g-chno="121"g-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-A
-https://bit.ly/3iVKbcG
-
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-B
-https://bit.ly/3LDBJLn
+#EXTINF:-1 tvg-id="AstroCeria" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-A
 https://bit.ly/3Dy8sPk
