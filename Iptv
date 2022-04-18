@@ -65,10 +65,10 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #EXTINF:-1g-id="101"g-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1g-id="102"g-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-A" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-A
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1g-id=""g-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA",TV6
