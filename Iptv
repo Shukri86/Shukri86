@@ -276,8 +276,10 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/116
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE ",BBC Earth
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/117
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/118
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="KNOWLEDGE ",History
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/119
