@@ -261,8 +261,10 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/120
 #EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/v4dPZ6h/BFDRT.png" group-title="KNOWLEDGE ",Nat Geo Wild
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/122
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/124
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",DISCOVERY CHANNEL HD
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/125
