@@ -854,9 +854,6 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/358
 #EXTINF:-1g-id="801"g-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS",ASTRO ARENA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS",Arena 2
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/400
-
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/153
 
