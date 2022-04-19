@@ -266,9 +266,6 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/122
 #EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",DISCOVERY CHANNEL HD
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/125
-
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="KNOWLEDGE ",Animal Planet
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/123
 
