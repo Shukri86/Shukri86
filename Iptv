@@ -95,10 +95,10 @@ https://weareblahs.github.io/yttestlabs/youtube.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Astro Ria
 http://iptv12k.com:35461/8022022301/468985/4353
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria Backup
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Astro Ria Backup
 http://iptv12k.com:35461/8022022301/468985/4353
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,7 +112,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-logo="https://www.transvision.co.id/img/channel/celestial_movies.png" group-title="MOVIES",CELESTIAL MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Astro Warna
 http://iptv12k.com:35461/8022022301/468985/4313
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Astro Citra
