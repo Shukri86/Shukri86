@@ -118,14 +118,8 @@ http://iptv12k.com:35461/8022022301/468985/4313
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Astro Citra
 http://iptv12k.com:35461/8022022301/468985/721
 
-#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
-https://bit.ly/3qYZo18
-
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
 https://bit.ly/3DE79ON
-
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA",INDOSIAR
-https://bit.ly/37eT0vi
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV
 https://bit.ly/3x3fSJq
