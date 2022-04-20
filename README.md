@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="https://bit.ly/Shukriepg" refresh="1440"
-
 #EXTM3U
 #EXTINF:-1,ID: Indosiar HD
 http://mykingtv.net:2082/Yapang98/Dragon98/5117
