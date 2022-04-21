@@ -113,7 +113,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Astro Warna
-http://iptv12k.com:35461/8022022301/468985/4313
+http://mykingtv.net:2082/Yapang98/Dragon98/8450
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Astro Citra
 http://iptv12k.com:35461/8022022301/468985/721
