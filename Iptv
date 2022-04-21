@@ -96,10 +96,7 @@ https://weareblahs.github.io/yttestlabs/youtube.m3u
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Astro Ria
-http://iptv12k.com:35461/8022022301/468985/4353
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Astro Ria Backup
-http://iptv12k.com:35461/8022022301/468985/4353
+http://mykingtv.net:2082/Yapang98/Dragon98/8444
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -116,7 +113,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 http://mykingtv.net:2082/Yapang98/Dragon98/8450
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Astro Citra
-http://iptv12k.com:35461/8022022301/468985/721
+http://mykingtv.net:2082/Yapang98/Dragon98/8453
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
 https://bit.ly/3DE79ON
