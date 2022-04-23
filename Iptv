@@ -69,7 +69,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1g-id="103"g-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MALAYSIA",TV3
-http://mykingtv.net:2082/Yapang98/Dragon98/8431
+https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
