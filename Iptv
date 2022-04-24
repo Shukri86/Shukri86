@@ -1,51 +1,5 @@
 #EXTM3U url-tvg="https://bit.ly/Shukriepg" refresh="1440"
 
-#EXTINF:-1,Astro First 476- Gila Gusti
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/562
-
-#EXTINF:-1,Astro First 475-The Disappearance of Irdina Adhwa
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/564
-
-#EXTINF:-1,Astro First 476- Autumn In Wales
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/560
-
-#EXTINF:-1,Astro First 477-Renjana
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/557
-
-#EXTINF:-1,Astro First 480- Kabus
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/554
-
-#EXTINF:-1,Astro First 479- Kedai Antik Wak Jambi
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/552
-
-#EXTINF:-1,Astro First 477- Kg Pisang Berbuah 2 Kali
-https://bit.ly/3NMsuu5
-
-#EXTINF:-1,Astro First 479- Hantu Mok Joh
-https://bit.ly/3j12PQa
-
-#EXTINF:-1,Astro First 479- Hantu Kuat Ketawa
-https://bit.ly/3NFBAsN
-
-#EXTINF:-1,Astro First 478- Marabahaya Underground
-https://bit.ly/3r2fdDZ
-
-#EXTINF:-1,Astro First 474 - Serangan Pocong
-https://bit.ly/3K6wPGr
-
-#EXTINF:-1,Astro First 476 - Hantu Ke Lima
-https://bit.ly/3NF0hFA
-
-#EXTINF:-1,Astro First 475 - Penunggang Agama 2
-https://bit.ly/3DEQKKb
-
-#EXTINF:-1,Astro First 477- Siapa Tutup Lampu??
-https://bit.ly/3uQiOGt
-
-#EXTINF:-1,Astro First 474 - Belaban Hidup
-https://bit.ly/3KkBi8k
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/BwHtb4d/jtf.png" group-title="MALAYSIA",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
