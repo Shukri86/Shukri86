@@ -1603,6 +1603,7 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="104" group-title="ASTRO"  ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ASTRO RIA HD
+https://aqfadtv.xyz/ria.m3u8
 http://linears-playback.astro.com.my/vsg/41EOIb7Z8FPp0c3RC7XL3c9dit9akRTrTHeWECdiK6_XQ=YetH/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://tv.kpsvpn.com/ria
 
@@ -1613,6 +1614,7 @@ https://tv.kpsvpn.com/ria
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="107" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA HD 
+https://aqfadtv.xyz/warna.m3u8
 http://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxG8l4BfLjs2duKxH0CLfFY-M=eZfN/dash-wv/jitp-linearwm/2402/default_primary.mpd
 https://tv.kpsvpn.com/warna
 
@@ -1620,6 +1622,7 @@ https://tv.kpsvpn.com/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" group-title="ASTRO" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",ASTRO CITRA HD
+https://aqfadtv.xyz/citra.m3u8
 http://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxG52v4OMVOG_4tHMaVqCOVXc=PvUA/dash-wv/jitp-linearwm/2700/default_primary.mpd
 https://tv.kpsvpn.com/citra
 
@@ -1629,6 +1632,7 @@ https://tv.kpsvpn.com/citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="ASTRO",ASTRO CERIA HD
+https://aqfadtv.xyz/ceria.m3u8
 https://linears-playback.astro.com.my/vsg/414N_TNcbRzYfIlLMoPnzK9SSj2pIKAUIMkCcGdsC3a3Y=5pqS/dash-wv/jitp-linearwm/2606/default_primary.mpd
 http://axcestv.vip:8080/@zeehanz/4HfYkryZww/451
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
