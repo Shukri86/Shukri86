@@ -1,3 +1,6 @@
+#EXTM3U x-tvg-url="https://smetv.live/epg/freeview/awesome"
+
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="1462" tvg-id="Andflix.in" tvg-name="&FLIX" tvg-logo="https://smetv.live:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthhN_fEympOS7H9aUx6TvYHFv1usJOkqd2hPWJvA9PIkW7emYGCU0P65Va4tjpJtDE.png" group-title="UNITED STATES",&FLIX
