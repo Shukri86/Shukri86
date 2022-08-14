@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/Linkepg" refresh="1440"
+#EXTM3U url-tvg="https://bit.ly/Epglink" refresh="1440"
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
