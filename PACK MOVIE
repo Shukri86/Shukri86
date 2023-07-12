@@ -1,1 +1,544 @@
-Backup
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml
+
+#EXTM3U url-tvg="https://smetv.live:443/xmltv.php?username=shukri&password=shukri5679
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MYTV" ,TV1
+https://axcestv.com:443/shukri/shukri/431
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MYTV" ,TV1 Backup
+https://axcestv.com:443/shukri/shukri/432
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MYTV" ,TV2
+https://axcestv.com:443/shukri/shukri/433
+
+#EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
+https://axcestv.com:443/shukri/shukri/435
+
+#EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3 HD
+https://axcestv.com:443/shukri/shukri/436
+
+#EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3 FHD
+https://axcestv.com:443/shukri/shukri/437
+
+#EXTINF:-1 tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg" group-title="MYTV" ,TV6
+https://axcestv.com:443/shukri/shukri/438
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MYTV",8TV
+https://axcestv.com:443/shukri/shukri/440
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="MYTV",TV9
+https://axcestv.com:443/shukri/shukri/441
+
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MYTV",TV ALHIJRAH
+https://axcestv.com:443/shukri/shukri/446
+
+#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MYTV",OKEY
+https://axcestv.com:443/shukri/shukri/443
+
+#EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MYTV",AWESOME TV
+https://axcestv.com:443/shukri/shukri/445
+
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru-oKq4ZUhmh_bLTG4sKlFDQ
+#EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV",DIDIKTV
+https://axcestv.com:443/shukri/shukri/439
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyOZzOfsSyKu3lPUdPHpYaG_g9iYequMCcg&usqp=CAU.png" group-title="MYTV",Drama Sangat
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru2syqun-uQEvz99vVVDhgzc
+
+#EXTINF:-1 xui-id="1481" tvg-id="AstroSensasi.sg" tvg-name="ASTRO SENSASI" tvg-logo="https://link.nxtdns.tech:443/images/1M8wPjag5XYcXcWqxasBhuixRPTGnoIWYp-OMKmMwhlxz1Nm8U5mY0Ha4zsu-cMs.jpg" group-title="MALAYSIA",Astro Sensasi
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru2QSUNnX7MVIJCCO2U2hIgk
+
+#EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",Astro Ria
+https://axcestv.com:443/shukri/shukri/453
+
+#EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",Astro Ria Backup
+https://axcestv.com:443/shukri/shukri/454
+
+#EXTINF:-1 xui-id="1508" tvg-id="AstroWarna" tvg-name="ASTRO WARNA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",Astro Warna
+https://axcestv.com:443/shukri/shukri/455
+
+#EXTINF:-1 xui-id="1508" tvg-id="AstroWarna" tvg-name="ASTRO WARNA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",Astro Warna Backup
+https://axcestv.com:443/shukri/shukri/456
+
+#EXTINF:-1 xui-id="230" tvg-id="AstroCitra" tvg-name="ASTRO CITRA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",Astro Citra
+https://axcestv.com:443/shukri/shukri/458
+
+#EXTINF:-1 xui-id="230" tvg-id="AstroCitra" tvg-name="ASTRO CITRA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",Astro Citra Backup
+https://axcestv.com:443/shukri/shukri/459
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",Astro Oasis
+https://axcestv.com:443/shukri/shukri/449
+
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",Astro Prima
+https://axcestv.com:443/shukri/shukri/452
+
+#EXTINF:-1 tvg-id="113" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="MALAYSIA",Astro Aura
+https://axcestv.com:443/shukri/shukri/460
+
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MALAYSIA",Astro Rania
+https://axcestv.com:443/shukri/shukri/461
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="INDONESIA",ANTV
+https://axcestv.com:443/shukri/shukri/464
+
+#EXTINF:-1 xui-id="24964" tvg-id="BioskopIndonesia.id" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://3.bp.blogspot.com/-_5YFx3V4qJs/VmgPO_yjmeI/AAAAAAAAEIg/Q-Edb9Zyi44/s1600/Film%2BIndonesia%2B2016.jpg" group-title="INDONESIA",BIOSKOP INDONESIA
+https://axcestv.com:443/shukri/shukri/524
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.kampung.xyz/c/fee780538cc4bb0f.png" group-title="INDONESIA",GTV
+https://axcestv.com:443/shukri/shukri/471
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.kampung.xyz/c/471c5cb2067763ea.png" group-title="INDONESIA",Indosiar
+https://axcestv.com:443/shukri/shukri/465
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.kampung.xyz/c/a1512755f08c991f.png" group-title="INDONESIA",MNCTV
+https://axcestv.com:443/shukri/shukri/469
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png" group-title="INDONESIA",NET
+https://axcestv.com:443/shukri/shukri/463
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="INDONESIA",RCTI
+https://axcestv.com:443/shukri/shukri/470
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.kampung.xyz/c/33812f1ce517e50b.png" group-title="INDONESIA",Rtv
+https://axcestv.com:443/shukri/shukri/473
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.kampung.xyz/c/5c16f2fcdb2dd0db.png" group-title="INDONESIA",SCTV
+https://axcestv.com:443/shukri/shukri/468
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.kampung.xyz/c/25310c66e8c2e425.png" group-title="INDONESIA",Trans7
+#http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://axcestv.com:443/shukri/shukri/467
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="INDONESIA",TRANSTV
+#http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://axcestv.com:443/shukri/shukri/466
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="INDONESIA",Zee Bioskop
+https://axcestv.com:443/shukri/shukri/590
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",Channel 5
+https://axcestv.com:443/shukri/shukri/644
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",Channel 8
+https://axcestv.com:443/shukri/shukri/645
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",SURIA
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru84ceS7hMVSzti3AbqRl3Eo
+
+#EXTINF:-1 xui-id="218" tvg-id="Vasantham.sg" tvg-name="VASANTHAM" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",VASANTHAM
+https://axcestv.com:443/shukri/shukri/647
+
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="KOREA",Arirang
+https://axcestv.com:443/shukri/shukri/579
+
+#EXTINF:-1 xui-id="221" tvg-id="GEM.sg" tvg-name="GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="KOREA",GEM
+https://axcestv.com:443/shukri/shukri/550
+
+#EXTINF:-1 xui-id="53" tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA",KBS WORLD
+https://axcestv.com:443/shukri/shukri/581
+
+#EXTINF:-1 xui-id="54" tvg-id="K-Plus" tvg-name="K-PLUS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA",K-PLUS
+https://axcestv.com:443/shukri/shukri/582
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
+#EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="KOREA",One
+https://axcestv.com:443/shukri/shukri/576
+
+#EXTINF:-1 xui-id="1497" tvg-id="" tvg-name="FLIK" tvg-logo="https://tvchannelbranding.files.wordpress.com/2016/03/flik_id_wip_08_cutstyle0-00-19-24.jpg?w=1200.png" group-title="MOVIE",FLIK
+https://axcestv.com:443/shukri/shukri/523
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIE",HBO
+https://axcestv.com:443/shukri/shukri/502
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIE",HBO HITS
+https://axcestv.com:443/shukri/shukri/503
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="MOVIE",HBO SIGNATURE
+https://axcestv.com:443/shukri/shukri/505
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIE",HBO FAMILY
+https://axcestv.com:443/shukri/shukri/504
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIE",CINEMAX
+https://axcestv.com:443/shukri/shukri/516
+
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
+https://axcestv.com:443/shukri/shukri/462
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="MOVIE",CCM
+https://axcestv.com:443/shukri/shukri/484
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-logo="https://www.transvision.co.id/img/channel/celestial_movies.png" group-title="MOVIE",Celestial Movies
+https://axcestv.com:443/shukri/shukri/483
+
+#EXTINF:-1 xui-id="36" tvg-id="CinemaWorld.my" tvg-name="CINEMA WORLD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="MOVIE",CINEMA WORLD
+https://axcestv.com:443/shukri/shukri/520
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="MOVIE",GALAXY
+https://axcestv.com:443/shukri/shukri/517
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIE",Galaxy Premium
+https://axcestv.com:443/shukri/shukri/518
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="MOVIE",HITS MOVIES
+https://axcestv.com:443/shukri/shukri/519
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="MOVIE",Imc
+https://axcestv.com:443/shukri/shukri/522
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="MOVIE",MYCINEMA
+https://axcestv.com:443/shukri/shukri/507
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="MOVIE",My Cinema Asia
+https://axcestv.com:443/shukri/shukri/508
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="MOVIE",My Family Channel
+https://axcestv.com:443/shukri/shukri/509
+
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="MOVIE",Showcase Movies
+https://axcestv.com:443/shukri/shukri/506
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE",Thrill
+https://axcestv.com:443/shukri/shukri/521
+
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-logo="https://static.epg.best/id/AXN.id.png" group-title="VARIETY",AXN
+https://axcestv.com:443/shukri/shukri/526
+
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="KOREA",TVN MOVIES
+https://axcestv.com:443/shukri/shukri/578
+
+#EXTINF:-1 xui-id="69" tvg-id="tvN" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="KOREA",TVN
+https://axcestv.com:443/shukri/shukri/577
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Hits.sg" tvg-logo="https://static.epg.best/id/HITS.id.png" group-title="VARIETY",HITS
+https://axcestv.com:443/shukri/shukri/534
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Kix.hk" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="VARIETY",KIX
+https://axcestv.com:443/shukri/shukri/525
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="VARIETY",LIFETIME
+https://axcestv.com:443/shukri/shukri/530
+
+#EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="VARIETY",Paramount Network
+https://axcestv.com:443/shukri/shukri/531
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIE",Rock Entertainment
+https://axcestv.com:443/shukri/shukri/533
+
+https://axcestv.com:443/shukri/shukri/506
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MOVIE",Rock Action HD
+https://axcestv.com:443/shukri/shukri/972
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="VARIETY",WARNER TV
+https://axcestv.com:443/shukri/shukri/529
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="LIFESTYLE",Afn
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuzzKaT6pmdf6J4IBRKjuSjY
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="LIFESTYLE",Hgtv
+https://axcestv.com:443/shukri/shukri/528
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Lifestyle_%26_Fashion_%282020%29.jpeg" group-title="LIFESTYLE",LIFESTYLE & FASHION
+https://axcestv.com:443/shukri/shukri/536
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="LIFESTYLE",TLC
+https://axcestv.com:443/shukri/shukri/547
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.us" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE",ANIMAL PLANET
+https://axcestv.com:443/shukri/shukri/543
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC EARTH
+https://axcestv.com:443/shukri/shukri/538
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="KNOWLEDGE",CRIME+INVESTIGATION
+https://axcestv.com:443/shukri/shukri/535
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.us" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1.png" group-title="KNOWLEDGE",DISCOVERY
+https://axcestv.com:443/shukri/shukri/545
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="KNOWLEDGE",HISTORY
+https://axcestv.com:443/shukri/shukri/540
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="KNOWLEDGE",NAT GEO WILD
+https://axcestv.com:443/shukri/shukri/542
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
+#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="NEWS",ASTRO AWANI
+https://axcestv.com:443/shukri/shukri/448
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
+#EXTINF:-1 tvg-id="513" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="NEWS",AL JAZEERA
+https://axcestv.com:443/shukri/shukri/542
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
+#EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="NEWS",BERNAMA
+https://axcestv.com:443/shukri/shukri/447
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1939316637b563ca2b97bbcf1fb50510&key=02703583fed9403ab38be7f75987fc3d
+#EXTINF:-1 tvg-id="517" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="NEWS",BLOOMBERG
+https://axcestv.com:443/shukri/shukri/561
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="NEWS",CNA
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ruw3hWt2Ljr6I63GzLbJcRPg
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98b593ae7d0d2b488eca960db791c010&key=56ef03e88c52b9ea7ea73ea0338f6d89
+#EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-title="NEWS",CNBC ASIA
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ruw7K9pJ22W5O8tq4JP8Un-c
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=32732dedac78e80dd81d0af789e5fe10&key=a69d2840788bf0298f1db62c5943b2a1
+#EXTINF:-1 tvg-id="514" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="NEWS",SKY NEWS
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru3lvhTNZMI9UYhRtEn09s9o
+
+#EXTINF:-1 xui-id="1518" tvg-id="AstroCeria" tvg-name="ASTRO CERIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="KIDS",ASTRO CERIA
+https://axcestv.com:443/shukri/shukri/450
+
+#EXTINF:-1 xui-id="1518" tvg-id="AstroCeria" tvg-name="ASTRO CERIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="KIDS",ASTRO CERIA Backup
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru06KzteDmB5GfthtSlaDK08
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS",ANIMAX
+https://axcestv.com:443/shukri/shukri/548
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkit.com/png/full/306-3060218_aniplus-aniplus-logo-png.png" group-title="KIDS",ANIPLUS
+https://axcestv.com:443/shukri/shukri/549
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png" group-title="KIDS",BABY TV
+https://axcestv.com:443/shukri/shukri/625
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
+#EXTINF:-1 tvg-id="619" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Boomerang_Logo.png" group-title="KIDS",BOOMERANG
+https://axcestv.com:443/shukri/shukri/569
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
+#EXTINF:-1 tvg-id="615" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="KIDS",CARTOON NETWORK
+https://axcestv.com:443/shukri/shukri/566
+
+#EXTINF:-1 xui-id="89" tvg-id="CBeebiesAsia.uk" tvg-name="CBEEBIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CBeebies_II.png/800px-CBeebies_II.png" group-title="KIDS",CBEEBIES
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru_4TpAndqPEJLNNyih1CLJI
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f81b33aeb2e5680263fe31d904
+#EXTINF:-1 tvg-id="616" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="KIDS",NICKELODEON
+https://axcestv.com:443/shukri/shukri/570
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
+#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="KIDS",NICK JR
+https://axcestv.com:443/shukri/shukri/571
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+#EXTINF:-1 tvg-id="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS",ASTRO ARENA
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru8t6RxGM_Ta_sz4wINzLF-4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORTS",ASTRO ARENA 2
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru8bK2a83DQOqWu9RGs5aUSA
+
+#EXTINF:-1 xui-id="22944" tvg-id="AstroArenaBola" tvg-name="ARENA BOLA 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Astro_Arena_Bola_%282D%29.png/revision/latest/smart/width/386/height/259?cb=20230226170413.png" group-title="SPORTS",ARENA BOLA 1
+https://axcestv.com:443/shukri/shukri/961
+
+#EXTINF:-1 xui-id="22945" tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Astro_Arena_Bola_2_%282D%29.png/revision/latest/scale-to-width-down/1200?cb=20230226172801.png" group-title="SPORTS",ARENA BOLA 2
+https://axcestv.com:443/shukri/shukri/958
+
+#EXTINF:-1 xui-id="24884" tvg-id="AstroArenaBola2" tvg-name="ARENA BOLA 3" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Astro_Arena_Bola_3_Logo_%282023%29.png/revision/latest/scale-to-width-down/1200?cb=20230228051958.png" group-title="SPORTS",ARENA BOLA 3
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru2K4bff3KZJS6t-P2Z4gNPs
+
+#EXTINF:-1 xui-id="19" tvg-id="AstroSupersport" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",ASTRO SUPERSPORT 1
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuyTmD0ssxwcX0idpyjcsNzU
+
+#EXTINF:-1 xui-id="20" tvg-id="AstroSupersport2" tvg-name="ASTRO SUPERSPORT 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",ASTRO SUPERSPORT 2
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuzB9DEnynlev0hbphZLac0w
+
+#EXTINF:-1 xui-id="21" tvg-id="AstroSupersport3" tvg-name="ASTRO SUPERSPORT 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",ASTRO SUPERSPORT 3
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuwXpvKPm_rPO2B4SEaNx1lM
+
+#EXTINF:-1 xui-id="22" tvg-id="AstroSupersport4" tvg-name="ASTRO SUPERSPORT 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",ASTRO SUPERSPORT 4
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru259vCyqtai8IJpE0qNiXys
+
+#EXTINF:-1 xui-id="1442" tvg-id="AstroSupersport5" tvg-name="ASTRO SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS",ASTRO SUPERSPORT 5
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru4-_YlaQahg9gmqLmyr2Tf0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
+#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SPORTS",BEIN SPORTS
+https://axcestv.com:443/shukri/shukri/605
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png" group-title="SPORTS",BEIN SPORTS 1
+https://axcestv.com:443/shukri/shukri/606
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+#EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS",BEIN SPORTS 3
+https://axcestv.com:443/shukri/shukri/866
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
+#EXTINF:-1 tvg-id="824" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="SPORTS",ASTRO CRICKET
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru5fR09Jh8Y_0udZkyvP4xXo
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="SPORTS",FIGHT SPORTS
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru1Lc3tmlyL8sG8aQUQnyUWw
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
+#EXTINF:-1 tvg-id="822" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="SPORTS",GOLF CHANNEL
+https://axcestv.com:443/shukri/shukri/632
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="SPORTS",MNC SPORTS
+https://axcestv.com:443/shukri/shukri/631
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
+#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="SPORTS",PREMIER SPORTS
+https://axcestv.com:443/shukri/shukri/603
+
+#EXTINF:-1 xui-id="22446" tvg-id="SoccerChannel.id" tvg-name="SOCCER CHANNEL" tvg-logo="https://static.visionplus.id/images/channel/d740c649/a327.png" group-title="SPORTS",SOCCER CHANNEL
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuyFhmjfx3syCQp6Kbem-FVA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
+#EXTINF:-1 tvg-id="816" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="SPORTS",SPOTV
+https://axcestv.com:443/shukri/shukri/617
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="SPORTS",SPOTV2
+https://axcestv.com:443/shukri/shukri/618
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="SPORTS",SUKAN RTM
+https://axcestv.com:443/shukri/shukri/591
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS",WWE NETWORK
+https://axcestv.com:443/shukri/shukri/619
+
+#EXTINF:-1 xui-id="39" tvg-id="Colors.in" tvg-name="COLORS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="INDIA",COLORS
+https://axcestv.com:443/shukri/shukri/585
+
+#EXTINF:-1 xui-id="25295" tvg-id="ZeeCinema" tvg-name="ZEE CINEMA HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo167952257.png" group-title="INDIA",ZEE CINEMA HD
+https://axcestv.com:443/shukri/shukri/584
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
+#EXTINF:-1 tvg-id="201" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="INDIA",ASTRO VAANAVIL
+https://axcestv.com:443/shukri/shukri/587
+
+#EXTINF:-1 tvg-id="Astro Vinmeen HD" tvg-name="Astro Vinmeen" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="INDIA",Astro Vinmeen
+https://axcestv.com:443/shukri/shukri/586
+
+#EXTINF:-1 xui-id="1519" tvg-id="BoxOfficeThangathirai" tvg-name="ABO THANGATHIRAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png" group-title="INDIA",ABO THANGATHIRAI
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuyTCtasimqXlaDndTM4B_IQ
+
+#EXTINF:-1 xui-id="23830" tvg-id="128.unifi" tvg-name="DUNIA SINEMA" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="UNIFI",DUNIA SINEMA
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru2W2_K4Hm4dUesDl_LZV9K0
+
+#EXTINF:-1 xui-id="116" tvg-id="120.unifi" tvg-name="DEGUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Degup_ID.png/revision/latest/scale-to-width-down/1200?cb=20220924000647.png" group-title="UNIFI",DEGUP
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru6-hbfk1m3Tk9q-cqS2Sqvg
+
+#EXTINF:-1 xui-id="23829" tvg-id="118.unifi" tvg-name="INSPIRASI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Unifi_Inspirasi.png/250px-Unifi_Inspirasi.png" group-title="UNIFI",INSPIRASI
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5RuwuT64kWVs_UUNovUW1yzWE
+
+#EXTINF:-1 xui-id="23828" tvg-id="116.unifi" tvg-name="SENSASI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png" group-title="UNIFI",SENSASI
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru6kePC2jlPCfSui-nE0bs1g
+
+#EXTINF:-1 xui-id="23831" tvg-id="701.unifi" tvg-name="UNIFI SPORTS" tvg-logo="https://link.nxtdns.tech:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7qA2ubiM8pWwnJAQRkfk2w3wZLIgGdZjl3ULGBD7Ilvo.png" group-title="UNIFI",UNIFI SPORTS
+https://link.nxtdns.tech:443/play/iruX5qQWl-zcQ7cWUL5Ru_LYlyCyazDOQt3K8jobiZQ
+
+
+
+#EXTINF:-1 xui-id="23831" tvg-id="701.unifi" tvg-name="UNIFI SPORTS" tvg-logo="https://link.nxtdns.tech:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7qA2ubiM8pWwnJAQRkfk2w3wZLIgGdZjl3ULGBD7Ilvo.png" group-title="UNIFI",UNIFI SPORTS
+https://layarxxi.cc/khuda-haafiz-chapter-2-agni-pariksha-2022/
