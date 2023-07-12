@@ -23,7 +23,7 @@ https://axcestv.com:443/shukri/shukri/440
 #EXTINF:-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="MYTV",TV9
 https://axcestv.com:443/shukri/shukri/441
 
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MALAYSIA LOKAL",TVS
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/200px-TVS_Sarawak.jpg" group-title="MYTV",TVS
 https://axcestv.com:443/shukri/shukri/442
 
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MALAYSIA LOKAL",Okey
