@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MYTV",TV1
 https://axcestv.com:443/shukri/shukri/432
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MYTV" ,TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2"tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MYTV" ,TV2
 https://axcestv.com:443/shukri/shukri/433
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
