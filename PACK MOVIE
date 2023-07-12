@@ -11,7 +11,7 @@ https://axcestv.com:443/shukri/shukri/433
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
 https://axcestv.com:443/shukri/shukri/437
 
-#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV2"tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg" group-title="MYTV" ,TV6
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6"tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg" group-title="MYTV" ,TV6
 https://axcestv.com:443/shukri/shukri/438
 
 #EXTINF:-1 tvg-id="DIDIKTV" tvg-name="DIDIKTV"tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV",DIDIKTV
