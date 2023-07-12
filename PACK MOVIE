@@ -38,7 +38,7 @@ https://axcestv.com:443/shukri/shukri/446
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="Astro Bernama" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="ASTRO",Astro Bernama
 https://axcestv.com:443/shukri/shukri/447
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="ASTRO",Astro Awani
 https://axcestv.com:443/shukri/shukri/448
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Oasis
