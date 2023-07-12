@@ -26,7 +26,7 @@ https://axcestv.com:443/shukri/shukri/441
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/200px-TVS_Sarawak.jpg" group-title="MYTV",TVS
 https://axcestv.com:443/shukri/shukri/442
 
-#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MALAYSIA LOKAL",Okey
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MYTV",OKEY
 https://axcestv.com:443/shukri/shukri/443
 
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MALAYSIA LOKAL",Awesome TV
