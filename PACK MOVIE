@@ -8,7 +8,7 @@ https://axcestv.com:443/shukri/shukri/432
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2"tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MYTV" ,TV2
 https://axcestv.com:443/shukri/shukri/433
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="MYTV",TV3
 https://axcestv.com:443/shukri/shukri/437
 
 #EXTINF:-1 tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg" group-title="MYTV" ,TV6
