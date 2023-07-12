@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml
 
-#EXTM3U url-tvg="https://smetv.live:443/xmltv.php?username=shukri&password=shukri5679
-
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MYTV" ,TV1
 https://axcestv.com:443/shukri/shukri/431
