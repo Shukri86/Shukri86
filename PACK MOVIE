@@ -143,7 +143,7 @@ https://axcestv.com:443/shukri/shukri/484
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="CHINESE",Star Chinese Movies
 https://axcestv.com:443/shukri/shukri/485
 
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO (M)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIES",HBO
 https://axcestv.com:443/shukri/shukri/502
 
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",HBO Hits
