@@ -173,7 +173,7 @@ https://axcestv.com:443/shukri/shukri/512
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Star Movie Select
 https://axcestv.com:443/shukri/shukri/513
 
-#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",SHOWCASE MOVIES
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="MOVIE",Showcase Movies
 https://axcestv.com:443/shukri/shukri/506
 
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Rock Action HD
