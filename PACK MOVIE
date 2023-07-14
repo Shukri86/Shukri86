@@ -141,7 +141,7 @@ https://axcestv.com:443/shukri/shukri/503
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family
 https://axcestv.com:443/shukri/shukri/504
 
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318778%27&EntityType=%27Item%27&EntityId=%2797146%27&Width=498&Height=250" group-title="MOVIES",HBO Signature
 https://axcestv.com:443/shukri/shukri/505
 
 #EXTINF:-1 tvg-id="SONY PIX" tvg-name="SONY Pix" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",SONY Pix
