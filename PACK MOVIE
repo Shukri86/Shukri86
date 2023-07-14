@@ -138,7 +138,7 @@ https://axcestv.com:443/shukri/shukri/502
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Hits" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIES",HBO Hits
 https://axcestv.com:443/shukri/shukri/503
 
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family
 https://axcestv.com:443/shukri/shukri/504
 
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",HBO Signature
