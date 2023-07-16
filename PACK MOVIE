@@ -165,7 +165,7 @@ https://axcestv.com:443/shukri/shukri/513
 #EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="MOVIES",SHOWCASE MOVIES
 https://axcestv.com:443/shukri/shukri/506
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Rock Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MOVIES",Rock Action HD
 https://axcestv.com:443/shukri/shukri/972
 
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Paramount Network
