@@ -246,7 +246,7 @@ https://axcestv.com:443/shukri/shukri/538
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="KNOWLEDGE",DMAX
 https://axcestv.com:443/shukri/shukri/539
 
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="KNOWLEDGE",History
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://www.wola.org/wp-content/uploads/2019/05/History-Channel.png" group-title="KNOWLEDGE",History
 https://axcestv.com:443/shukri/shukri/540
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="KNOWLEDGE",National Geographic
