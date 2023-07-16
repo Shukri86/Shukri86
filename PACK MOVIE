@@ -171,7 +171,7 @@ https://axcestv.com:443/shukri/shukri/972
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7ZGcOucpzMtAFRSuQkkOdB5pBICIj6oWUA&usqp=CAU" group-title="MOVIES",Paramount Network
 https://axcestv.com:443/shukri/shukri/531
 
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272290609%27&EntityType=%27Item%27&EntityId=%2797155%27&Width=1920&Height=1280" group-title="MOVIES",Cinemax
 https://axcestv.com:443/shukri/shukri/516
 
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",MyCinema
