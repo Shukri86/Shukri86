@@ -177,7 +177,7 @@ https://axcestv.com:443/shukri/shukri/516
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="MOVIES",MyCinema
 https://axcestv.com:443/shukri/shukri/507
 
-#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",MyCinema Asia
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="MOVIES",MyCinema Asia
 https://axcestv.com:443/shukri/shukri/508
 
 #EXTINF:-1 tvg-id="My Family" tvg-name="MyFamily Cinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",MyFamily Cinema
