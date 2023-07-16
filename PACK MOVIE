@@ -195,7 +195,7 @@ https://axcestv.com:443/shukri/shukri/519
 #EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-title="MOVIES",CinemaWorld
 https://axcestv.com:443/shukri/shukri/520
 
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",Thrill
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",Thrill
 https://axcestv.com:443/shukri/shukri/521
 
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES",IMC
