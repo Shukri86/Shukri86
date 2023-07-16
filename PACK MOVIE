@@ -210,7 +210,7 @@ https://axcestv.com:443/shukri/shukri/524
 #EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://tv.bdtype.com/uploads/tv_image/kix-tv.png" group-title="MOVIES",KIX
 https://axcestv.com:443/shukri/shukri/525
 
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="ENTERTAINMENT",AXN
 https://axcestv.com:443/shukri/shukri/526
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",BBC Lifestyle
