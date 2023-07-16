@@ -216,7 +216,7 @@ https://axcestv.com:443/shukri/shukri/526
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",BBC Lifestyle
 https://axcestv.com:443/shukri/shukri/527
 
-#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",HGTV
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="ENTERTAINMENT",HGTV
 https://axcestv.com:443/shukri/shukri/528
 
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",Warner TV
