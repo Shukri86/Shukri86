@@ -213,7 +213,7 @@ https://axcestv.com:443/shukri/shukri/525
 #EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="ENTERTAINMENT",AXN
 https://axcestv.com:443/shukri/shukri/526
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ENTERTAINMENT",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://cms.bbcpolska.com/sites/default/files/2021-08/lifestyle.png" group-title="ENTERTAINMENT",BBC Lifestyle
 https://axcestv.com:443/shukri/shukri/527
 
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/07/HGTV-Logotype.jpg" group-title="ENTERTAINMENT",HGTV
