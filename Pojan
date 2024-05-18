@@ -1,0 +1,34 @@
+
+#EXTM3U billed-msg="FIX CHANNEL TIGA SERANGKAI️"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>,
+
+
+
+
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440️
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
+#EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
+https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDUA7kcJEuoxN_vcYIO9pSjE=YDM2/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhMzB_TfyQIloBWjw_2bGkH5E=02B-/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=bb2ffc6e-55d7-4075-828f-66559c85b92d
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2Pmdq1BFsJAHOBA5lR77kiJI=6Tbp/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=0a994bfc-a602-4723-a63c-54c8dbd48e44
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexT-0pGH7TJCVNUKvL7ZDtbI=o5Xg/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=ff627d4a-d4c5-4a52-bb03-05f67a83f4cf
