@@ -383,6 +383,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
 
+#EXTINF:-1 tvg-id="Lifetime" ch-number="410" group-title="Entertainment" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5052
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+
+
+
 
 
 VOD
