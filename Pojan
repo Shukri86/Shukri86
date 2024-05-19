@@ -410,6 +410,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+
+
 VOD
 
 
