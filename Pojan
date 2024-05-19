@@ -500,6 +500,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 https://linears-playback.astro.com.my/vsg/41JsYQGhDunlJvyB3CXgX3P-7UJ24xaAGEJdYP9svByaA=6Izw/dash-wv/jitp-dashisowm/2105/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982/
+#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" ch-number="611" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",nikcJR
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+
+
 
 VOD
 
