@@ -459,6 +459,14 @@ http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1
 #EXTINF:-1 tvg-id="mycinemaeurope.MACAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6s-nR9Jr3hOgBepxKnK-c428vfoGNVddsvcHvBtIxg&s" group-title="Movies", My Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
+
+#EXTINF:-1 tvg-id="AstroVaanavil" ch-number="410" group-title="Indian" group-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png",Astro Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=2309
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
+
+
 VOD
 
 
