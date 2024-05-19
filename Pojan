@@ -494,6 +494,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 #EXTINF:-1 tvg-id="AstroVellithirai" group-title="Indian" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",Astro Vellithirai
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2105/
+#EXTINF:-1 tvg-id="Tv12" group-title="Indian" ch-number="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/20220421_150144.png/revision/latest/scale-to-width-down/1200?cb=20220421070758",Astro Vinmeen
+https://linears-playback.astro.com.my/vsg/41JsYQGhDunlJvyB3CXgX3P-7UJ24xaAGEJdYP9svByaA=6Izw/dash-wv/jitp-dashisowm/2105/default.mpd
+
 
 
 VOD
