@@ -389,6 +389,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 
+#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" group-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=9983
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 
 
