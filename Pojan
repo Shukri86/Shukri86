@@ -351,7 +351,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 
 
-#EXTINF:-1 tvg-id="One" ch-number="393" group-title="Korean" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",One
+#EXTINF:-1 tvg-id="One" ch-number="393" group-title="Korean" group-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=2702
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
