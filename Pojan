@@ -395,6 +395,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 
+#EXTINF:-1 tvg-id="Cbeebies" ch-number="620" group-title="Kids" group-logo="https://www.dropbox.com/s/rv0amvzkur00c40/1681140386198.png?dl=1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw4O_BLUcKAgj7Hvrq75P0PCV0JX7sN8nuA&usqp=CAU",Cbeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5093
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+
 
 VOD
 
