@@ -466,6 +466,12 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2606/
+#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+
 
 VOD
 
