@@ -45,6 +45,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
+
+#EXTINF:-1 tvg-id="AstroQj" ch-number="410" group-title="Astro" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",Astro QJ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=2507
+https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41vyvp_vXdMzdmw2EaytnAjKoH_dHv6XZvcb-T0Q6Plk0=X0uc/dash-wv/jitp-dashisowm/2507/default_ott.mpd?aws.sessionId=48579192-3f03-4118-adbb-a16d136925e3
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="Sports",Astro Arena Bola
