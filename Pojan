@@ -364,6 +364,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2303/
+#EXTINF:-1 tvg-id="Axn" group-title="Movies" ch-number="701" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/04/axn.png",AXN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+
 
 VOD
 
