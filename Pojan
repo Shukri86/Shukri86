@@ -42,7 +42,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="Astro" tvg-logo="https://i.ibb.co/wN4yrwX/Astro-Premier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" } 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
