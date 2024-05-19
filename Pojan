@@ -255,3 +255,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="Kids" group-logo="hhttps://static.wikia.nocookie.net/international-entertainment-project/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20230526005313",Astro Ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/
+#EXTINF:-1 tvg-id="Heroes" group-title="Channel Special" ch-number="104" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KNAEO_IVP_LAND_917x516_202453_172631.jpg",Heroes
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
