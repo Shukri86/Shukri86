@@ -472,6 +472,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5095/
+#EXTINF:-1 tvg-id="DreamWorks" group-title="Kids" ch-number="104" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZvCyLfGzU0-Scqd5D3AnX2wPAs2n5dKm1ncSSLR2XQ&s",DreamWorks
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+
+
 
 VOD
 
