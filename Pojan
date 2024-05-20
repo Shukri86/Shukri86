@@ -629,6 +629,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+#EXTINF:-1 tvg-id="603" tvg-name="Astro Tutor TV SPM" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV SMK HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+
 
 
 VOD
