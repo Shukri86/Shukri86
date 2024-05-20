@@ -661,6 +661,11 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#EXTINF:-1g-id="551" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Documentaries",Global Trekker
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+
 
 
 
