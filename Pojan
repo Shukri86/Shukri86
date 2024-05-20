@@ -645,6 +645,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTINF:-1 tvg-id="HBO" group-title="Movies" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese", TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
 
 
 
