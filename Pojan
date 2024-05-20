@@ -667,6 +667,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Movies", Rakuten TV
+https://rakuten-actionmovies-1-gb.samsung.wurl.tv/playlist.m3u8
+
+
 
 
 VOD
