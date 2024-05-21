@@ -726,8 +726,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f7
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/JhDGSvZT/20230902-132506.png" group-title="Thailand",ALTV
-https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="Thailand", Altv 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 
