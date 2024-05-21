@@ -730,7 +730,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Jom " ch-number="410" group-title="Channel NJOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sooka_Jom_Ngaji.png/640px-Sooka_Jom_Ngaji.png",Oh My Ceria!
+#EXTINF:-1 tvg-id="Jom " ch-number="410" group-title="Channel NJOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzozEpRvaQqvrYrtKvPeDYt_5MNzNYC3lNKqPP-EZklQ&s",Oh My Ceria!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
