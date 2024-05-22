@@ -16,24 +16,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDSjneWRSJ6qkHMv1tierwh0=h959/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTMfEzMvEJj9mnIHoK7mAQM=ve19/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM-_ZJVc5NJal4U1sE6XPGD8=dVpn/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=3911d1f9-77ae-422c-9464-7976b7f46d59
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhMzd6H5ZpWvAiR6FI_NCMp4o=jJ0d/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=dd1e06bb-a2e6-4232-ba95-42a258f74ce6
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PhASQRk4gwbFc1-CXroDKJQ=CNNc/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=e02bc3f3-82c8-4083-ba6b-1dd5a40969f2
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PrD0-Z-Tq15AJWEljx6iCis=TyoP/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=ac1c91dd-d720-4d90-935d-31a2d0927197
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexcB4qUfCvAaft_T4ijkQ94g=20Ul/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=41501654-babf-4390-961f-6302f3df351c
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PrD0-Z-Tq15AJWEljx6iCis=TyoP/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=ac1c91dd-d720-4d90-935d-31a2d0927197
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,12 +69,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="Sports",Astro Arena Bola
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41MhxCouqyhBr49oSYoVTPAIBn3__wV9o56XBeJ-9qCD8=c69o/dash-wv/jitp-dashisowm/5099/default_ott.mpd
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41MhxCouqyhBr49oSYoVTPAH2Wq0tDW2xQZzSTbx-TQ4k=Ax2p/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=6e2669e8-9967-4a98-90eb-c8bac820a1ad
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOVKz5sSHlg0xkTzyFR1fw7dVh1Y8Qf0L1No39gpfag&s" group-title="Sports",Astro Arena Bola 2
-https://linears-playback.astro.com.my/vsg/416dvUCtDLbP5L9zVHE9Qmr_LpOlbxL6A5ZeQ4AIyd6Gg=_eaf/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/416dvUCtDLbP5L9zVHE9Qmr6SP0c_-hpPowS9oCA1J_kA=XKEz/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -511,7 +514,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2105/
 #EXTINF:-1 tvg-id="Tv12" group-title="Indian" ch-number="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/20220421_150144.png/revision/latest/scale-to-width-down/1200?cb=20220421070758",Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/41JsYQGhDunlJvyB3CXgX3P-7UJ24xaAGEJdYP9svByaA=6Izw/dash-wv/jitp-dashisowm/2105/default.mpd
+https://linears-playback.astro.com.my/vsg/41LELNUZHIa5pkpdRwweq0Ncee8CzRx3E6eYsMKhsiiRs=2zUC/dash-wv/jitp-dashisowm/2105/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
