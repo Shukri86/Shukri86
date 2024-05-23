@@ -757,12 +757,12 @@ https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
-#EXTINF:-1 type="movie" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NC5VdJ6e9bV8k3H8TACBMg","kid":"pyRO16VnjVITBnLEs89RTg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="Unifi TV", DEGUP 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c2ef96fe03b52c27a7b9a25ebfc95a00:93c9bcd05f9f754026b5b5e17f4e6446 
+https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoFqEEiu%2BDFk9Tzo5rm4fHVX4bfov4PD%2BvgnBfWnn%2B2NCyoKcpl0e4a0zbHhKPy16D%3A20240429163748%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163748%2Curn:Huawei:liveTV:XTV55631601%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ6CMBREb9Nl05am1EVXGhMTgyagW_Ohn0osVFsw8faK4nZm3uSNERrcbQzTqFTGV5qpVgolV5ILW0uW2TrTSiiS8FEEI0gD3neDK4KdsXO5vnBGGRWCU02q-W3rwS3DYuprjIb_qRLjs2vQ2NTSJyQKzkV0MHZhoEcPr1P0y4RgtZjxnEspZK64zhkZ57SCdPs05AppHfo7RLT74L6AacEnJHdobuCwgB7NMHn_4w7RfmzeFhMnY_MAAAA&tenantId=6001
 
 
 
