@@ -145,7 +145,7 @@ https://linears-playback.astro.com.my/vsg/416dvUCtDLbP5L9zVHE9QmrwojAfO1w6tVpP9w
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="Sports",Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5057/default_ott.mpd
 
 
