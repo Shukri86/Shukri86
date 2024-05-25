@@ -34,12 +34,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",TVB ENTERTAINMENT NEWS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" } #EXTINF:-1 tvg-id="TVBEntertainmentNews" tvg-name="TVB Entertainment News HD" group-title="Chinese" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBl0N.jpg",TVB Entertainment News CH317 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default.mpd
 
 
 
