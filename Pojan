@@ -34,11 +34,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" } #EXTINF:-1 tvg-id="TVBEntertainmentNews" tvg-name="TVB Entertainment News HD" group-title="Chinese" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBl0N.jpg",TVB Entertainment News CH317 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default.mpd
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -74,24 +69,24 @@ https://linears-playback.astro.com.my/vsg/41iQM7DIzCQ7kUZSl3b8d4Psj5HLHAzW9lkG0c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDdeOVwK7ztwUD-PiayewNW4=CYMR/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDQlQhpEDJybAK1owooZOwVo=EOIq/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM2GXi66ULt7cmq5CHVnOgQk=Wi93/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=0a3f44d2-b656-470c-9a6f-f8896120425d
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM3xf9i0lvD6GIYH9t4b_BYI=gFN3/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=41f5486c-eb6a-461e-aeb6-9881e0e2fddf
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PnsphQc3dguchWWQ2RzVqAg=baTN/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=32e9d0c9-e7e2-4d80-9f67-8930fbd89bef
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2Ps9nLVlh_imXUFQt6pDUZOY=L1EQ/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=433bcf03-ca57-46f5-a22a-dc01a573b9c4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexXXNoBQ3PyKn7i9lCY6KCLs=Gs68/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=015a2634-1fd6-48ed-8bcd-c8f7c75a9ea5
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexcVHZvk9kt9MHXtrkxjoYTE=jbVI/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=7ff5e5bc-86be-4955-b8f8-256587737393
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
