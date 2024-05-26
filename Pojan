@@ -43,15 +43,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="Unifi TV", Pesona HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=89f0da419803ab38e53033983a190672:d93eaa7604fa6771757e67741db1612d
-https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoLdYNFEvMJsITPa8OoIHKL%2B%2FJVjVzCeEWa0pxtwvCAgeyoKcpl0e4a0zbHhKPy16D%3A20240429163756%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163756%2Curn:Huawei:liveTV:iptv8997%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQU_EIBhE_w1HAtgWeuC0ZhMTU022ejUD_YrN0rJCdxP_vVut15l5k7dmeHp6tA2q1tUPDkLpCnpwo2qMqAVcWxsHzwp9dckq5hHjtIQuDRv2fjp8SMEFV0pyw_rt7RgR9mF3nR1lK_-pE-Xb5MkOZeQ3FI4QMgWsU1r4a8T3W477hFG_m0ktq0pVummNNmzd0h7lfG_YJ8ohzRdkGp5T-AXsiFiIXeDPCNRhJrtcY_zjXvJwt_kB1qIsWvMAAAA&tenantId=6001
-
-
-
 #EXTINF:-1 tvg-id="241" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",Astro Box Office
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
@@ -66,7 +57,7 @@ https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTDHn-LD8SDXlQqh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTDHn-LD8SDXlQqhlohL2Y4=Vtgr/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhMyrV7gVv047pNreFiUFPPmo=0keV/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=141e79a6-7689-4c31-ab48-c6fc3162bc4c
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
