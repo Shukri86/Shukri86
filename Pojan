@@ -33,16 +33,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="My Freeview" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/manifest.mpd
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -217,14 +207,6 @@ https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="My Freeview" group-logo="https://i.ibb.co/RPp88d8/minmintvlogo2.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="My Freeview" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/manifest.mpd
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -423,9 +405,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Korean" tvg-id="tvN" tvg-chno="395" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Korean",tvN HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -485,10 +467,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 
-#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" group-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=9983
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Korean",K-Plus
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="Cbeebies" ch-number="620" group-title="Kids" group-logo="https://www.dropbox.com/s/rv0amvzkur00c40/1681140386198.png?dl=1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw4O_BLUcKAgj7Hvrq75P0PCV0JX7sN8nuA&usqp=CAU",Cbeebies
