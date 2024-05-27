@@ -60,10 +60,11 @@ https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTDHn-LD8SDXlQqh
 https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhMyrV7gVv047pNreFiUFPPmo=0keV/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=141e79a6-7689-4c31-ab48-c6fc3162bc4c
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PpAaf4kmHW4TDzI8Nh0Lv-o=HaXv/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=6968962c-eea3-4bef-9785-560f0aa131c
+#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro",Astro Warna
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PiVkucFXSmx4hBCTx71h2PU=T2fO/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=6b9fb246-f96d-4b5f-a270-bd588106f754
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
