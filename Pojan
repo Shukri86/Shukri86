@@ -344,7 +344,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="300" tvg-name="IQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" ,IQIYI 
+#EXTINF:-1 tvg-id="300" tvg-name="IQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" ,IQIYI HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
