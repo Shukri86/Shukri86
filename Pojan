@@ -55,12 +55,13 @@ https://linears-playback.astro.com.my/vsg/41iQM7DIzCQ7kUZSl3b8d4PhJ1BPkjk19CXzam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTDHn-LD8SDXlQqhlohL2Y4=Vtgr/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDWOX6BVhcFHCutjG3noXrC8=MQLK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhMyrV7gVv047pNreFiUFPPmo=0keV/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=141e79a6-7689-4c31-ab48-c6fc3162bc4c
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM963IBE94CLHUxwVsGcAMB0=Lqak/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=b89d7025-de1a-44bb-abb2-9016a6641aa1
 
 
 
@@ -73,7 +74,7 @@ https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexa4JKCoLu6eaJRDfryg3YDc=T0e4/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=f1135200-ca48-4074-8979-60ae914f54c5
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexR1D2mBL3YPOg-1ZTWHDuq8=V7KY/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=0d6c1bee-65a4-468c-ad9c-847737ee1602
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
