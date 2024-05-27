@@ -932,5 +932,8 @@ https://www.googleapis.com/drive/v3/files/1DOPyKO3tNIJWg0jljWmfze79yGlcmHwB?alt=
 Youtube
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcjPIa_-ao2VyElFxNwSmKuhinviwc3QMtw&usqp=CAU" group-title="Youtube" ,24hr-Kpop
+https://live.24hrkpop.com/hls/4/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://army.wiser.my/wp-content/uploads/2018/07/maxresdefault-13.jpg" group-title="Youtube" ,Nagaswara
 https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
