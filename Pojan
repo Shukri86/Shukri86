@@ -83,7 +83,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="AstroQj" ch-number="410" group-title="Astro" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",Astro Quan Jia
+#EXTINF:-1 tvg-id="AstroQuanjia" ch-number="410" group-title="Astro" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=2507
 https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41NozrajO4B21nT_Q8ktWe3EpR5IPIlWdWuQtZB6Q05Gw=fPNz/dash-wv/jitp-dashisowm/2507/default_ott.mpd?aws.sessionId=48450023-0b23-4eda-9ba5-00016e96cccf
