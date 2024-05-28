@@ -57,11 +57,12 @@ https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDUV0z_kL1NozhrCs
 https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM7jZXmeGGSggdxUDL3MR8wk=3VbY/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=e244197f-0aa4-4b2f-9578-fc650bb38115
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
-#EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PpBezHi-U9dIpmwFO9YeMvI=KKGV/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=45543c5c-7a57-42fc-9b9b-af85cdd811c6
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
