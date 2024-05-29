@@ -1,11 +1,9 @@
-<span style="cursor: pointer;" onclick=window.open'https://youtube.com';><img src="https://en.dragon-ball-official.com/dragonball/en/news/2023/10/13/n231013000-1en.jpg"/></span>
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U billed-msg="FIX CHANNEL TIGA SERANGKAI️"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>,
 
 
-#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440️
 
-#EXTM3U x-tvg-url="https://bit.ly/Lineepg" refresh="1440️
 
 
 #EXTINF:-1 tvg-id="116" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png", Colors Hindi HD
