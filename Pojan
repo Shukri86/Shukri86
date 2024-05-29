@@ -57,6 +57,10 @@ https://bit.ly/3yApKNA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="Astro" ,Astro Citra
 https://bit.ly/3wV6KJ2
 
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="My Freeview" ,Drama Sangat
+https://bit.ly/3Vhpgon
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2505/
