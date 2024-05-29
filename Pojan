@@ -57,9 +57,8 @@ https://bit.ly/3yApKNA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="Astro" ,Astro Citra
 https://bit.ly/3wV6KJ2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="Sports" ,Astro Arena Bola
-https://bit.ly/4bx3ToG
-
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="My Freeview" ,Drama Sangat
+https://bit.ly/3Vhpgon
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,13 +102,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="Sports" ,Astro Arena Bola
 https://bit.ly/4bx3ToG
 
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOVKz5sSHlg0xkTzyFR1fw7dVh1Y8Qf0L1No39gpfag&s" group-title="Sports",Astro Arena Bola 2
-https://linears-playback.astro.com.my/vsg/416dvUCtDLbP5L9zVHE9Qmr6SP0c_-hpPowS9oCA1J_kA=XKEz/dash-wv/jitp-linearwm/5100/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports" ,Astro Arena Bola 2
+https://bit.ly/4e0KaPL
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
