@@ -1,9 +1,13 @@
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
+
+
+
 #EXTM3U billed-msg="FIX CHANNEL TIGA SERANGKAI️"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>,
 
 
 
+#EXTM3U x-tvg-url="https://bit.ly/Lineepg" refresh="1440️
 
 
 #EXTINF:-1 tvg-id="116" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png", Colors Hindi HD
@@ -21,6 +25,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="TvbEnterTainmentNews" ch-number="410" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",TVB Entertainment News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5015
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -28,16 +38,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-logo="https://www.tvchinese.net/uploads/tv/tvblvyou.jpg",TVB XIANG HE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
-
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="My Freeview" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/manifest.mpd
 
 
 
@@ -194,12 +194,6 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="My Freeview" group-logo="https://i.ibb.co/RPp88d8/minmintvlogo2.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -351,10 +345,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 
 
+#EXTINF:-1 tvg-id="300" tvg-name="IQIYI HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" ,IQIYI HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD group-title="Chinese",IQIYI
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 
 
