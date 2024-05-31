@@ -63,7 +63,7 @@ https://linears-playback.astro.com.my/vsg/41iQM7DIzCQ7kUZSl3b8d4PhJ1BPkjk19CXzam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDWOX6BVhcFHCutjG3noXrC8=MQLK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDVtcctQQ3bryBpWqiFH9tbE=VsIw/dash-wv/jitp-linearwm/1004/default_ott.mp
 
 
 
@@ -72,7 +72,7 @@ https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDWOX6BVhcFHCutjG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM963IBE94CLHUxwVsGcAMB0=Lqak/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=b89d7025-de1a-44bb-abb2-9016a6641aa1
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41RPLegxx83lilI0lh6imhM703MOCFAPme4yO6F2EStkE=bQwn/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=3cc44966-cdbb-44de-862d-57448fc5f6e9
 
 
 
@@ -82,13 +82,13 @@ https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro",Astro Warna
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PiVkucFXSmx4hBCTx71h2PU=T2fO/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=6b9fb246-f96d-4b5f-a270-bd588106f754
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PkBgXAM8LpzYmiKaaoKnZLM=IZDm/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=68f4e0d2-e638-4dfd-aa5d-5fc341ed2985
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexR1D2mBL3YPOg-1ZTWHDuq8=V7KY/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=0d6c1bee-65a4-468c-ad9c-847737ee1602
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexRbnHZ8mj7XN17XXpiykz7M=0cBt/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=3d25b1df-8807-44e5-967a-652779b3398d
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -585,7 +585,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTINF:-1g-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Indian",Astro Vinmeen HD
-https://linears-playback.astro.com.my/vsg/41LELNUZHIa5pkpdRwweq0NRpeDbA6k5DZmXNGBGm1KMQ=N9bR/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41LELNUZHIa5pkpdRwweq0NaQlOpoQpoanYvIC4S4PqKw=9zsZ/dash-wv/jitp-dashisowm/2105/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
