@@ -10,7 +10,8 @@
 #EXTM3U x-tvg-url="https://bit.ly/Lineepg" refresh="1440️
 
 
-
+#EXTINF:-1 tvg-logo="https://ragamlampung.com/wp-content/uploads/2016/07/RCTI-MNC-Group.png" group-title="Indonesia" ,RCTI
+https://bit.ly/3V0eTUF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia" ,SCTV
 https://bit.ly/4c15Nhi
