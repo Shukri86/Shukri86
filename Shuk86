@@ -12,6 +12,13 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://army.wiser.my/wp-content/uploads/2018/07/maxresdefault-13.jpg" group-title="Youtube" ,24hr-Kpop
+https://live.24hrkpop.com/hls/4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://army.wiser.my/wp-content/uploads/2018/07/maxresdefault-13.jpg" group-title="Youtube" ,Nagaswara
+https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2xoo5Bid2cVw63f3j-4qQw9wLpM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" group-title="Kids" ,Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
