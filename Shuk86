@@ -10,6 +10,12 @@
 #EXTM3U x-tvg-url="https://bit.ly/Lineepg" refresh="1440️
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest/scale-to-width-down/270?cb=20220216043203&path-prefix=vi" group-title="Movies" ,KIX
+https://bit.ly/3VlMc5I
+
 #EXTINF:-1 tvg-logo="https://ragamlampung.com/wp-content/uploads/2016/07/RCTI-MNC-Group.png" group-title="Indonesia" ,RCTI
 https://bit.ly/3V0eTUF
 
