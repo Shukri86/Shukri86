@@ -572,7 +572,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVellithirai" group-title="Indian" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",Astro Vellithirai
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
-#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-vinmeen-hd.jpeg.webp" group-title="Indian " ,Astro Vinmeen
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-vinmeen-hd.jpeg.webp" group-title="Indian" ,Astro Vinmeen
 https://bit.ly/3VkxfRB
 
 
