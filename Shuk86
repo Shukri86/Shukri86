@@ -11,6 +11,11 @@
 
 
 
+#EXTM3U x-tvg-url="https://link.zozotv.xyz/epgtvku.xml" refresh="1440️
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://army.wiser.my/wp-content/uploads/2018/07/maxresdefault-13.jpg" group-title="Youtube" ,24hr-Kpop
 https://live.24hrkpop.com/hls/4/stream.m3u8
