@@ -24,6 +24,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb143d940521074d
 
 
 
+RADIO
+
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png",KedahFM
+https://22243.live.streamtheworld.com/KEDAH_FMAAC_SC
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" group-title="Astro" ,Astro Prima
 https://bit.ly/4dWdzuz
