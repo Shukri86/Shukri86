@@ -100,6 +100,11 @@ https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 channel-id="pluto-5c3f8f12a93c2d61b9990a4e" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-chno="2430" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids", TokuSHOUTsu
+https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV-oijx2lk3rikrXGcmy9IQqHWeDfT-KbNg&s" group-title="Kids" ,Angrybird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
