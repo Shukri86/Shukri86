@@ -15,7 +15,8 @@
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://army.wiser.my/wp-content/uploads/2018/07/maxresdefault-13.jpg" group-title="Youtube" ,24hr-Kpop
 https://live.24hrkpop.com/hls/4/stream.m3u8
