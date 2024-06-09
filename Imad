@@ -222,7 +222,7 @@ https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.co
 
 
 
-#EXTINF:-1 group-title="My Freeview" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_TV1_%28Malaysia%29.svg",TV1
+#EXTINF:-1 group-title="My Freeview" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUF006TXmbYaptWqIaBSmOZf92BGzfDfKWA&s",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 
