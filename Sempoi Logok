@@ -216,6 +216,19 @@ http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Movies",SHOWCASE
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="HitsNow" ch-number="410" group-title="Movies" group-logo="https://www.hitstv.com/assets/hits-now-logo-color.png",Hits Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=5110
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd
+
+
+
 
 
 
@@ -296,6 +309,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 https://linears-playback.astro.com.my/vsg/41iQM7DIzCQ7kUZSl3b8d4PtH-SPW0-5KcEa8ZMrcuolY=Ftyq/dash-wv/jitp-linearwm/2109/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="201" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",Astro Vaanavil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+
+
 
 
 
