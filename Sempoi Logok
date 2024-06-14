@@ -67,7 +67,7 @@ ASTRO
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
-#EXTINF:-1 tvg-id="104" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" ,Astro Ria
 https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDUTBBgaKIiQKpI_RoyIRGSw=LUyi/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
