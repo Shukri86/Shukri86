@@ -585,6 +585,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
+#EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Entertainment",Paramount Network
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#EXTINF:-1 tvg-id="718" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Entertainment",MTV Live HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+
+
+
+
+
+
 
 
 
@@ -808,6 +825,59 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
+#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",WWE Network HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",W-Sport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",Premier Sports HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+
+
+#EXTINF:-1 tvg-id="822" tvg-name="Golf Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports" , Golf Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
+#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",Eurosport HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",beIN Sports HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 tvg-id="817" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",beIN Sports 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",beIN Sports 3 HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 
 
@@ -815,12 +885,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 
 
+LIFESTYLE
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",Asian Food Network HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+#EXTINF:-1 tvg-id="717" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",BBC Lifestyle HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",DMAX HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
+#EXTINF:-1 tvg-id="715" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",HGTV HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",TLC HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Lifestyle",Asian Food Network HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 
 
