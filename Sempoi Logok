@@ -410,6 +410,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTINF:-1 tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Korean",tvN Movies
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -437,6 +451,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" tvg-logo="https://iili.io/1NB4Xj.png",Astro Hua Hee Dai HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
+
+
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese", TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="Chinese" group-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-logo="https://www.tvchinese.net/uploads/tv/tvblvyou.jpg",TVB XIANG HE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTINF:-1 tvg-id="306" ch-number="Aec" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astro AEC HD
+https://ktpremium.com:443/Sarah/Sarah/25968
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
+
+
+
+
+
+
+
+
 
 
 
