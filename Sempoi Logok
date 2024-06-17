@@ -435,10 +435,13 @@ CHINESE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="AstroQuanjia" ch-number="410" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",Astro Quan Jia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=TURBOBOY&channelid=2507
-https://07111473bdd34b7f97104ca06d6e5501.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH14-dash/vsg/41NozrajO4B21nT_Q8ktWe3EpR5IPIlWdWuQtZB6Q05Gw=fPNz/dash-wv/jitp-dashisowm/2507/default_ott.mpd?aws.sessionId=48450023-0b23-4eda-9ba5-00016e96cccf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qSTVNVGcxWkRFdFpHRXlaQzAwWldRMExXSmtPRGt0TWpneE9XWXdOVFkxWXpNdyIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTE2MzIzNywiaWF0IjoxNzE4NTU5MjM3fQ.S2t2iUxZUZmfr48Z6k8RDOgHf0Q8Ho4jNrVLFwI9i9o"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AiI5ZeM/e/HmwhJ4Bju1CA", "kid":"sOfb4l5sSfm1JeYU/EqmDA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" tvg-id="AstroQJ",Astro Quan Jia
+https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
 
 #EXTINF:-1 tvg-id="TvbEnterTainmentNews" ch-number="410" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",TVB Entertainment News
@@ -467,11 +470,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-#EXTINF:-1 tvg-id="306" ch-number="Aec" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",Astro AEC HD
-https://ktpremium.com:443/Sarah/Sarah/25968
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qSTVNVGcxWkRFdFpHRXlaQzAwWldRMExXSmtPRGt0TWpneE9XWXdOVFkxWXpNdyIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTE2MzIzNywiaWF0IjoxNzE4NTU5MjM3fQ.S2t2iUxZUZmfr48Z6k8RDOgHf0Q8Ho4jNrVLFwI9i9o"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Chinese" tvg-logo="https://telegra.ph/file/e36872d8b3f54568fdcbb.png" tvg-id="AstroAEC",Astro AEC
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 
 
