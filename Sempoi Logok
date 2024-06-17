@@ -479,6 +479,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xPNRHhKT5X4xz0IoNVUaag", "kid":"bvJHEbeaTBOk/m1Ndg2EPA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Chinese" tvg-logo="https://iili.io/1OtOw7.png" tvg-id="311.astro",Astro AOD
+https://linear07-playback.sooka.my/CH5/masterCH5.mpd
+
+
+
+
+
+
+
+
 
 
 
