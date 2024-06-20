@@ -209,10 +209,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-#EXTINF:-1 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Movies",CINEMAX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="Movies" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NCG4V.png",CINEMAX HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -290,6 +292,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 
 
 MOVIES BACKUP
+
+
+
+
+
+
+
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
