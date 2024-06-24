@@ -1094,6 +1094,54 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 
 
+
+
+
+Sooka
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://image.apktoy.com/img/6c/com.astro.sott/icon.png" group-title="Sooka" tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png" tvg-id="132.astro",DRAMA HEBAT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka" tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png" tvg-id="131.astro",FILEM MANTAP
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka" tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png" tvg-id="134.astro",LAWAK SENTRAL
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 RADIO
 
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",KedahFM
