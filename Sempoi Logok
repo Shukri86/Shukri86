@@ -1207,7 +1207,12 @@ HBO GO
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Miramax
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb143d940521074dc3239_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7NjTcW7SqNkqdeIcf9T4fg","kid":"E513goRuXiCb7SfBfr7QSQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Wonder Woman
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76bfd96_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 
