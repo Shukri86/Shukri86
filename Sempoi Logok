@@ -1178,6 +1178,11 @@ https://22273.live.streamtheworld.com/MUTIARA_FMAAC_SC
 
 
 
+
+
+
+
+
 YOUTUBE
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://cdn4.focus.bg/fakti/photos/16x9/8a2/youtube-veche-blokira-potrebitelite-koito-hitruvat-1.jpg" group-logo="https://cdn4.focus.bg/fakti/photos/16x9/8a2/youtube-veche-blokira-potrebitelite-koito-hitruvat-1.jpg" group-title="Youtube" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" ,Surah Ruqiah
@@ -1193,7 +1198,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719166983/ei/p
 
 
 
+HBO GO 
 
+#EXTINF:-1,水行俠-失落王國 (Aquaman-Lost Kingdom)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cw3sMbSesqSRO2rRHQWoLA","kid":"VA/Zt6k2rQwC5DYx8uqNyQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Miramax
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb143d940521074dc3239_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 
