@@ -869,6 +869,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q9DpRhHrixCC3qY/JiP1dw","kid":"EbV3VQkcQDah00TnDjUtcg"}],"type":"temporary"}
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Kids" tvg-logo="https://telegra.ph/file/5715a7286a67669db999f.png" tvg-id="620.astro", CBeebies Sooka
+https://linear13-playback.sooka.my/CH4/masterCH4.mpd
+
+
 
 
 
