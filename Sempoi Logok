@@ -681,7 +681,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 
-
+#EXTINF:-1 group-title="Indonesia"  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png"
+/revision/latest?cb=20210317160255",Transtv [INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 
 
@@ -1358,12 +1362,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb143d940521074d
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Wonder Woman
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76bfd96_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ldz87Ksi8AqsDCEPgE7CfQ","kid":"1l8/iOlzX2auDOjqGODmCg"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Wonder Woman 1984
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
 
 
 
