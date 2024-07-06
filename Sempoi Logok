@@ -1183,6 +1183,33 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
+Sooka sports
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlltUTNOek16T1RBdE5XTXhZUzAwT1RKaUxUazNPRFV0Wmpjek1ESm1PREk0WWpBeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDg4ODUwMywiaWF0IjoxNzIwMjg0NTAzfQ.2bzBQuz6CxpWU2rbdKMnl3gs7dbtA131XywXUcrdD68"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka Sports" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="AstroArenaBola",Astro Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlltUTNOek16T1RBdE5XTXhZUzAwT1RKaUxUazNPRFV0Wmpjek1ESm1PREk0WWpBeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDg4ODUwMywiaWF0IjoxNzIwMjg0NTAzfQ.2bzBQuz6CxpWU2rbdKMnl3gs7dbtA131XywXUcrdD68"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka Sports" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="AstroArenaBola2",Astro Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+
+
+
+
+
+
+
 
 
 
