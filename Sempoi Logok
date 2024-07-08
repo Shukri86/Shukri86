@@ -26,7 +26,7 @@ https://noisy-butterfly-a39d.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="Tiga Serangkai" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nft6B.png",Astro Prima
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="Tiga Serangkai" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nft6B.png",Astro Prima HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 
