@@ -1150,6 +1150,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 https://linear13-playback.sooka.my/CH4/masterCH4.mpd
 
 
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="Kids", ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
