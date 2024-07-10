@@ -820,7 +820,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png" group-title="Indonesia", OD MAXSTREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 
