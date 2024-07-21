@@ -186,10 +186,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 UNIFI TV
 
 #EXTINF:-1 tvg-id="116" group-logo="https://bissb.com.my/img/p/7/7-thickbox_default.jpg" group-title="Unifi TV" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/siar/
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0)
+Gecko/20100101 Firefox/127.0y=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 
