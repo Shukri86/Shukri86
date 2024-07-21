@@ -202,8 +202,11 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/duniasinema/
 #EXTINF:-1 group-title="Unifi TV" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 
