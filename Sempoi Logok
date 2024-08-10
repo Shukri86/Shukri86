@@ -148,7 +148,7 @@ ASTRO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astro" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
-https://linears-playback.astro.com.my/vsg/414zjl4IWYqDzc_HbA1oU8Nd5zM37sZg-tKOJj8rFz4q4=ABjk/dash-wv/jitp-linearwm/1004/default.mpd
+https://linears-playback.astro.com.my/vsg/414zjl4IWYqDzc_HbA1oU8NQmnKLQeJb0s2249qT5VSf4=T46u/dash-wv/jitp-linearwm/1004/default.mpd
 
 
 
