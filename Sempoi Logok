@@ -1319,8 +1319,7 @@ https://tv.jnda.tech/hxr/1behlxs/l.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOVKz5sSHlg0xkTzyFR1fw7dVh1Y8Qf0L1No39gpfag&s" group-title="Sports",Astro Arena Bola 2
-https://linears-playback.astro.com.my/vsg/416dvUCtDLbP5L9zVHE9Qmr4JDrV9fEYANfSJ6MiczVTU=YIn4/dash-wv/jitp-linearwm/5100/default_ott.mpd
-
+https://tv.jnda.tech/hxr/19qcp6p/l.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qSTVNVGcxWkRFdFpHRXlaQzAwWldRMExXSmtPRGt0TWpneE9XWXdOVFkxWXpNdyIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTE2MzIzNywiaWF0IjoxNzE4NTU5MjM3fQ.S2t2iUxZUZmfr48Z6k8RDOgHf0Q8Ho4jNrVLFwI9i9o"}
