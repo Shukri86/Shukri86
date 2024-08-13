@@ -1341,7 +1341,7 @@ https://tv.jnda.tech/hxr/18u4wnk/l.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="Sports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3
-https://linears-playback.astro.com.my/vsg/41pLwpQTkhJ3Y17uoAnm5ZZdzUeRrwZs0itA3hfJ-TXr4=i5pV/dash-wv/jitp-dashisowm/2701/default_ott.mpd
+https://tv.jnda.tech/hxr/1tari6m/l.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
