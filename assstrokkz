@@ -274,18 +274,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
 
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#KODIPROP:inputstream.adaptive.license_key
-={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Unifi TV" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live32.mpd
-
-
-
-
-
 
 
 
@@ -1561,29 +1549,29 @@ RADIO
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://kedahfm.rtm.gov.my/storage/app/uploads/public/608/0c3/88a/6080c388a01c5398406359.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",KedahFM
 https://22243.live.streamtheworld.com/KEDAH_FMAAC_SC
 
-
-
-
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/8/21128.v11.png",Radio Amboi
 https://stream-161.zeno.fm/555kr7upam0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1NTVrcjd1cGFtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjUzYVRvN2I1Umktc3RNUktwVXZaRHciLCJpYXQiOjE3MTczMzU5MzksImV4cCI6MTcxNzMzNTk5OX0.U256paIYw6Ahxg0jnzs6GR7r7reQAZFMmGnAkxeZY4A
-
-
-
 
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://mutiarafm.rtm.gov.my/storage/app/uploads/public/606/559/1e5/6065591e52cc5940366871.png",Mutiara FM
 https://22273.live.streamtheworld.com/MUTIARA_FMAAC_SC
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157939g.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",PerakFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FM_SC
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAsue3iX9nnZL1WVezeRehPEdOsD5ydft_g&s" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Johor FM
+https://14003.live.streamtheworld.com/JOHOR_FMAAC_SC
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Molek FM
+https://stream.rcs.revma.com/z56xa78mtd3vv/10_8xfskgx2repv02/playlist.m3u8
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhqaEjQXyfKrn0NCSoiGPym9bN76_ZIB3Zw&s" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Langkawi FM
+https://22253.live.streamtheworld.com/LANGKAWI_FMAAC.aac
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Melaka FM
+https://28093.live.streamtheworld.com/MELAKA_FMAAC_SC
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Perlis FM
+https://28153.live.streamtheworld.com/PERLIS_FMAAC_SC
 
 
 
