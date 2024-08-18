@@ -1626,7 +1626,12 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Aquaman - Rage Of Atlantis 2018
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606e58e26d048943f77b1df4_hbovodhd/dash0/MYS_index.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JnAxYp/4P9FcB1JtHFk+pQ","kid":"YDwqPNV0XCKnqFBKx9eAIg"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,The Fate Of The Furious 2017
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bda40d940521074bb2826_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 
