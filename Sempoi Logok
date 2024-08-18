@@ -1619,7 +1619,12 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ldz87Ksi8AqsDCEPgE7CfQ","kid":"1l8/iOlzX2auDOjqGODmCg"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Wonder Woman 1984
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bf8370d940521074c309f2_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0GQcMkR2YwC9KcNMs2itrQ","kid":"L1mxtCHyWo26l892+tVPkQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_hu/screenshot/default/f01-hbogo-1920x1080_rga8.1280.jpg" group-title="HBO GO" ,Aquaman - Rage Of Atlantis 2018
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606e58e26d048943f77b1df4_hbovodhd/dash0/MYS_index.mpd
 
 
 
