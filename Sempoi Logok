@@ -1567,7 +1567,8 @@ https://stream.rcs.revma.com/z56xa78mtd3vv/10_8xfskgx2repv02/playlist.m3u8
 #EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhqaEjQXyfKrn0NCSoiGPym9bN76_ZIB3Zw&s" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Langkawi FM
 https://22253.live.streamtheworld.com/LANGKAWI_FMAAC.aac
 
-
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Melaka FM
+https://28093.live.streamtheworld.com/MELAKA_FMAAC_SC
 
 
 
