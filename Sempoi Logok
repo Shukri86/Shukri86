@@ -1574,6 +1574,23 @@ https://28093.live.streamtheworld.com/MELAKA_FMAAC_SC
 https://28153.live.streamtheworld.com/PERLIS_FMAAC_SC
 
 
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZIsES795jXqwVOE8anT-7_26YBIHnr89Zg&usqp=CAU" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Nasional FM
+https://28163.live.streamtheworld.com/NASIONAL_FMAAC_SC
+
+
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Negeri_FM_Logo.png" group-logo="https://lh3.googleusercontent.com/cmvTMFVpyOLBfMAkvMEUWRpu9h-buYNeFwuAgBlapVODZ15ZmgPU4H31JcT45gj6mYc",Negeri FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC.aac
+
+
+
+
+
+
+
+
+
+
+
 
 
 
