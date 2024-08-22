@@ -1684,3 +1684,17 @@ Sarikata
 
 
 #EXTM3U x-tvg-url="https://bit.ly/Lineepg" refresh="1440#
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_750x1126_2024618_163049.jpg" group-title="MOVIE MELAYU" type="movie",Sheriff 2024
+#EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
+#EXTHTTP:{"Accept":"*/*","Accept-Language":"en-US,en;q=0.8","Authority":"vod-dai-ott-ap.ssai.iris.synamedia.com","Origin":"https://astrogo.astro.com.my","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","Sec-Gpc":"1"}
+https://tv.jnda.tech/hxr/1wyl5s3/l.mpd
