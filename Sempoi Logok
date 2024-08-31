@@ -438,7 +438,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.m
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Movies" ,Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 
 
